@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.10.0",
+    "puppeteer": "^13.6.0"
+  }
+}
